@@ -45,6 +45,7 @@
     "webpack-merge": "^4.2.2"
   },
   "dependencies": {
+    "autoprefixer": "^9.7.1",
     "react": "^16.10.2",
     "react-dom": "^16.10.2"
   }
